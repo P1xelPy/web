@@ -1,0 +1,28 @@
+h1{
+    color: blueviolet;
+}
+
+p{
+    font-size: 18px;
+}
+a[href*="youtube"]{
+    text-decoration: none;
+    color: red;
+}
+a:hover[href*="youtube"]{
+color: green;
+}
+img[src*="gulas"]{
+    width: 100mm;
+}
+body{
+    background-image: url("../../img/giphy.gif");
+}
+
+a[href*="index"]{
+    text-decoration: none;
+}
+
+a:hover[href*="index"]{
+    color: darkviolet;
+}
